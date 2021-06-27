@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JEBraz
+- 👀 I’m interested in data analytics, business intelligence and data visualization.
+- 🌱 I’m currently learning Python, SQL and PoweBI.
